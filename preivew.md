@@ -4,7 +4,7 @@
 ## 1. 입출력
 
 >
-  - python
+- python
 ```python
 # 입력 받은것 공백을 기준으로 분할. 리스트로 반환
 a,b = input().split()
