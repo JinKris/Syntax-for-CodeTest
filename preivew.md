@@ -1,12 +1,7 @@
 # Python/Js 코딩테스트 kit
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> c32d40e99efd1b028244bd5cc3b61dc6876180b4
 ## 1. 입출력
-
 
 >
   - python
