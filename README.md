@@ -1,4 +1,4 @@
-💡 # Python/Js 코딩테스트 kit
+ # 💡Python/Js 코딩테스트 kit
 
 해당 repo는 Python과 Javascript 문법을 다루고 있습니다
 
